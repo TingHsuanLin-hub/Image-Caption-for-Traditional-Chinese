@@ -77,7 +77,7 @@ def main(config):
             'optimizer': optimizer.state_dict(),
             'lr_scheduler': lr_scheduler.state_dict(),
             'epoch': epoch,
-        }, 'checkpoint_with_train_with_start/%d_epoch.pth' %(epoch))
+        }, config.checkpoint)
 
         validation_loss = evaluate(model, criterion, data_loader_val, device)
         print(f"Validation Loss: {validation_loss}")
