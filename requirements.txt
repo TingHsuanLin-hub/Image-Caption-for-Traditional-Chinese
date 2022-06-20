@@ -3,3 +3,5 @@ torchvision
 numpy
 transformers
 tqdm
+gensim
+jieba
