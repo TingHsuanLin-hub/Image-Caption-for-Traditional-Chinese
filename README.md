@@ -42,6 +42,7 @@ $ python predict.py --path /path/to/image --checkpoint /path/to/checkpoint
 
 ## pretrained model download:
 Swin Transformer V2:   # Place in models/
+
 Word2Vec:   # Place in Word2Vec_model/
             # 256, 512 is embedding size
 
