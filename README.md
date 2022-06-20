@@ -41,6 +41,7 @@ $ python predict.py --path /path/to/image --checkpoint /path/to/checkpoint
 ```
 
 ## pretrained model download:
+<a href ='https://drive.google.com/drive/folders/1gAq4f_kPqdA_ygouYjYY7dJA8aCGvrCp?usp=sharing'> Image Caption Pre-trained Model</a>
 Swin Transformer V2:   # Place in models/
 
 Word2Vec:   # Place in Word2Vec_model/
