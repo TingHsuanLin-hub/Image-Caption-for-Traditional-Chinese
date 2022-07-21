@@ -3,7 +3,7 @@
 ## Usage 
 First, clone the repository locally:
 ```
-$ git clone https://github.com/saahiluppal/catr.git
+$ git clone https://github.com/TingHsuanLin-hub/Image-Caption-for-Traditional-Chinese.git
 ```
 Then, install PyTorch 1.5+ and torchvision 0.6+ along with remaining dependencies:
 ```
