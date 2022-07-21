@@ -48,3 +48,5 @@ Swin Transformer V2:   # Place in models/
 Word2Vec:   # Place in Word2Vec_model/
             # 256, 512 is embedding size
 
+predict ckeckpoint:
+
